@@ -4,4 +4,6 @@ And here is some more text at the end.
 And adding a newline.
 Added to master.
 version2
+version3
+
 

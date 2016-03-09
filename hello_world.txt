@@ -2,3 +2,4 @@ test file
 Adding text to the second line. Hello World
 And here is some more text at the end.
 And adding a newline.
+version2
